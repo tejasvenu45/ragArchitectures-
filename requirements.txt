@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+qdrant-client
+PyMuPDF
+python-dotenv
+google-generativeai
+tqdm
+watchfiles
+dotenv
+numpy
+python-multipart
+scikit-learn
+pydantic
+openai
